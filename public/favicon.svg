@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Greenfield Local Hub favicon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#15803d"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded square background -->
+  <rect x="16" y="16" width="224" height="224" rx="56" fill="url(#g)"/>
+
+  <!-- Simple field lines -->
+  <path d="M40 178 C84 150, 124 150, 216 180" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round" opacity="0.92"/>
+  <path d="M40 206 C86 182, 126 182, 216 210" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round" opacity="0.75"/>
+
+  <!-- "GLH" initials -->
+  <text x="128" y="120" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+        font-size="72" font-weight="800" fill="#ffffff" letter-spacing="2">
+    GLH
+  </text>
+</svg>
